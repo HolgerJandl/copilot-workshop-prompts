@@ -6,7 +6,7 @@ Alle Prompts aus der Live-Demo zum Kopieren. Rechts oben in jedem grauen Kasten 
 
 ### Schritt 1: Copilot meinen Schreibstil beibringen
 
-Wo: Copilot Chat, oben "Arbeit"
+Wo: Copilot Chat (https://copilot.cloud.microsoft/), oben "Arbeit"
 
 ```text
 Analysiere die E-Mails, die ich in den letzten drei Monaten gesendet habe. Beschreibe meinen Schreibstil: Anrede, Grußformel, Länge, Aufbau, Tonalität, typische Formulierungen und wann ich Deutsch oder Englisch schreibe. Formuliere daraus eine Anweisung an Copilot für das Verfassen meiner E-Mails, in der Du-Form, höchstens 1.000 Zeichen, die ich direkt in Outlook einfügen kann. Übernimm keine Namen, Zahlen oder Inhalte aus den E-Mails.
